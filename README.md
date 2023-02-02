@@ -1,6 +1,12 @@
 # JustBreakIn
 JustBreakIn, a cheat sheet which will aid you through external network engagements.
 
+## Tools I use for External Network Pentests ##
+- gowitness
+- dnsx
+- subfinder
+(A combonation both of dnsx & subfinder)
+
 ## Performing OSINT to break into an external portal such as OWA.
 First and formost, please only do this if you have permission. Doing this against random companies on the internet is illegal! You have been warned.
 
