@@ -179,4 +179,12 @@ If you see something like the below, you ae in luck!
 [+] Dumped 1 valid account to owa_valid_accounts.txt
 ```
 
+## MFA
+This may be something that stops you from authenticating to external MS services such as Microsoft Online, MS Graph API, ADFS, etc.
+
+The below tools can assist in telling us if MFA / CAPs is stopping the login or not.
+- MFASweep
+- Spray365
+- msspray
+
 Goodluck and please do this responsibility.  
